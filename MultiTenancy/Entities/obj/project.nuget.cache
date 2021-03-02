@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oNMLl+4l9NWghyTFFFuMk7EY4Yfrzv9KQo8woVDTA/2ABUQs8u6G6QjRBRqszRSXDxziFX1QB8ndq10OBl5dTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mtalh\\OneDrive\\Masaüstü\\MultiTenancy\\MultiTenancy\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mtalh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mtalh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
