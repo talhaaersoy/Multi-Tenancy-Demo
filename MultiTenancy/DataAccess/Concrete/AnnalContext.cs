@@ -1,4 +1,5 @@
-﻿using DataAccess.Tenant.Abstract;
+﻿using Core.Entities.Concrete;
+using DataAccess.Tenant.Abstract;
 using DataAccess.Tenant.Concrete;
 using Entities.Concrete;
 using Microsoft.EntityFrameworkCore;
@@ -11,6 +12,9 @@ namespace DataAccess.Concrete
     public class AnnalContext : DbContext
     {
         public virtual DbSet<Annal> Annals { get; set; }
+        public virtual DbSet<User> Users { get; set; }
+        public virtual DbSet<OperationClaim> OperationClaims { get; set; }
+        public virtual DbSet<UserOperationClaim> UserOperationClaims { get; set; }
 
         private readonly AppTenant _tenant;
 

@@ -65,5 +65,13 @@ C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\WebAPI\obj\Debug\ne
 C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
 C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
 C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
-C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Collection.dll
-C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\WebAPI\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\WebAPI\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll

@@ -12,3 +12,5 @@ C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\Business\obj\Debug\
 C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\Business\obj\Debug\netstandard2.0\Business.dll
 C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\Business\bin\Debug\netstandard2.0\Core.dll
+C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\Business\bin\Debug\netstandard2.0\Core.pdb
