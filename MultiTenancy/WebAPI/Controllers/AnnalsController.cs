@@ -43,6 +43,27 @@ namespace WebAPI.Controllers
             }
             return BadRequest(result);
         }
+        //[HttpGet("getwith")]
+        //public async Task<IActionResult> GetRoomsPaged([FromQuery] RoomFilter roomFilter)
+        //{
+        //    // validasyon 
+        //    if (!ModelState.IsValid)
+        //        return BadRequest(ModelState);
+
+        //    // IQueryCollection queryString = Request.Query;
+        //    // roomFilter.RouteValues = queryString.ToRouteValues();
+        //    roomFilter.RouteName = string.Concat(Request.Scheme, "://", Request.Host.Value);
+        //    roomFilter.RouteValues = Request.Query.ToRouteValues();
+
+        //    var rooms = await _roomService.GetRoomsPagedAsync(roomFilter);
+
+        //    if (rooms.Data == null || !rooms.Data.Any())  //rooms.Data.Count() <= 0 ) /* 1 2 3 4 ... 10.000*/
+        //        return NoContent();
+
+        //    return Ok(rooms);
+
+
+        //}
 
         [HttpPost("add")]
         [Authorize()]
