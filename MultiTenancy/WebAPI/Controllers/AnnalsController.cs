@@ -8,6 +8,7 @@ using System.IO;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 
 namespace WebAPI.Controllers
 {
@@ -25,7 +26,7 @@ namespace WebAPI.Controllers
         public IActionResult GetAll()
         {
             var result = _annalService.GetAll();
-            if (result != null)
+            if (result.Success)
             {
                 return Ok(result);
             }
@@ -36,7 +37,7 @@ namespace WebAPI.Controllers
         public IActionResult GetById(int id)
         {
             var result = _annalService.Get(id);
-            if (result != null)
+            if (result.Success)
             {
                 return Ok(result);
             }
@@ -44,24 +45,39 @@ namespace WebAPI.Controllers
         }
 
         [HttpPost("add")]
+        [Authorize()]
         public IActionResult Add(Annal annal)
         {
-            _annalService.Add(annal);
-            return Ok();
+            var result = _annalService.Add(annal);
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+            return BadRequest(result);
         }
 
         [HttpPost("delete")]
+        [Authorize()]
         public IActionResult Delete(Annal annal)
         {
-            _annalService.Delete(annal);
-            return Ok();
+            var result = _annalService.Delete(annal);
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+            return BadRequest(result); ;
         }
 
         [HttpPost("update")]
+        [Authorize()]
         public IActionResult Update(Annal annal)
         {
-            _annalService.Update(annal);
-            return Ok();
+            var result = _annalService.Update(annal);
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+            return BadRequest(result);
         }
         
     }

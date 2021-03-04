@@ -1,0 +1,27 @@
+C:\Users\mtalh\OneDrive\Masaüstü\Yeni klasör\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\mtalh\OneDrive\Masaüstü\Yeni klasör\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\mtalh\OneDrive\Masaüstü\Yeni klasör\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\mtalh\OneDrive\Masaüstü\Yeni klasör\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\mtalh\OneDrive\Masaüstü\Yeni klasör\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\mtalh\OneDrive\Masaüstü\Yeni klasör\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\mtalh\OneDrive\Masaüstü\Yeni klasör\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\mtalh\OneDrive\Masaüstü\Yeni klasör\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\mtalh\OneDrive\Masaüstü\Yeni klasör\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\mtalh\OneDrive\Masaüstü\Engin Demiroğ\FinalProject\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\mtalh\OneDrive\Masaüstü\Engin Demiroğ\FinalProject\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\mtalh\OneDrive\Masaüstü\Engin Demiroğ\FinalProject\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\mtalh\OneDrive\Masaüstü\Engin Demiroğ\FinalProject\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\mtalh\OneDrive\Masaüstü\Engin Demiroğ\FinalProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\mtalh\OneDrive\Masaüstü\Engin Demiroğ\FinalProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\mtalh\OneDrive\Masaüstü\Engin Demiroğ\FinalProject\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\mtalh\OneDrive\Masaüstü\Engin Demiroğ\FinalProject\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\mtalh\OneDrive\Masaüstü\Engin Demiroğ\FinalProject\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\mtalh\OneDrive\Masaüstü\MultiTenancy\MultiTenancy\Core\obj\Debug\netstandard2.0\Core.pdb
