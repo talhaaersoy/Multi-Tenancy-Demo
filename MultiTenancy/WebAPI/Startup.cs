@@ -40,9 +40,11 @@ namespace WebAPI
         {
             services.AddControllers();
             services.AddMultiTenantsSupport();
-            //services.AddScoped<IAnnalService, AnnalManager>();
-            //services.AddScoped<IAnnalDal, EfAnnalDal>();
-            //services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+            services.AddSwaggerGen(opt => {
+                opt.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
+                { Title = "SwaggerAPI", Version = "v1" });
+            });
+
 
 
             var tokenOptions = Configuration.GetSection("TokenOptions").Get<TokenOptions>();
@@ -84,6 +86,11 @@ namespace WebAPI
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+            });
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Swagger");
             });
         }
     }

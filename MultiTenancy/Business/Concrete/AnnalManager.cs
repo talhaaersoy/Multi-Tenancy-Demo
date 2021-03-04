@@ -22,14 +22,14 @@ namespace Business.Concrete
         {
             _annalDal = annalDal;
         }
-        [Authorize()]
+        
         [ValidationAspect(typeof(AnnalValidator))]
         public IResult Add(Annal annal)
         {
             _annalDal.Add(annal);
             return new SuccessResult();
         }
-        [Authorize()]
+       
         public IResult Delete(Annal annal)
         {
             _annalDal.Delete(annal);
@@ -47,7 +47,7 @@ namespace Business.Concrete
            
             return new SuccessDataResult<List<Annal>>(_annalDal.GetAll());
         }
-        [Authorize()]
+        
         [ValidationAspect(typeof(AnnalValidator))]
         public IResult Update(Annal annal)
         {
